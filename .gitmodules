@@ -1,0 +1,3 @@
+[submodule "cantools"]
+	path = cantools
+	url = https://github.com/cantools/cantools

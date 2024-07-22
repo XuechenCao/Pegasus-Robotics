@@ -1,3 +1,6 @@
 [submodule "cantools"]
 	path = cantools
 	url = https://github.com/cantools/cantools
+[submodule "Multi_Sensors_Module/cantools"]
+	path = Multi_Sensors_Module/cantools
+	url = https://github.com/cantools/cantools

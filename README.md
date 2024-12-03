@@ -29,11 +29,13 @@ https://mp.weixin.qq.com/s/snVqW28UDTt6ng6ERYtgZA STL \
 https://mp.weixin.qq.com/s/1gDdU4qTjhcviCvAYsDKkQ C++20 \
 https://mp.weixin.qq.com/s/185ksqxKLmk-PY7J6Eh3LA C++高效lib \
 https://mp.weixin.qq.com/s/_G417OTvHX_OBR2DVR9rZA C++ Protobuf \
+https://mp.weixin.qq.com/s/tP6CM7lPgG4pLTl3KydQjQ Python封装 \
 
 https://robot-ma.github.io/   具身智能抓取 \
 https://github.com/kyegomez/rt-2   RT2 \
 https://theophilegervet.github.io/projects/goat/  GoToAnything \
 https://github.com/Jirl-upenn/VLMnav  端到端导航 \
+https://mp.weixin.qq.com/s/ZS6kgn5YiloE2c77-EuiFQ CLIP2Scene \
 https://dino-wm.github.io/  Dino WM \
 Log-GPIS-MOP     定位建图导航 \
 https://github.com/HongbiaoZ/autonomous_exploration_development_environment/tree/humble \
@@ -43,6 +45,8 @@ https://github.com/ethz-asl/panoptic_mapping  全景建图 \
 
 datawhalechina.github.io   pytorch \
 https://mp.weixin.qq.com/s/5lSZNuoY3DUCGsJIqmLy0A  模型部署工程化 \
+https://mp.weixin.qq.com/s/zfB-4YFWLltboC7EwYptmA  onnx加速 \
+https://mp.weixin.qq.com/s/5hjnbLvD1uOMcI-LyxDBvQ Openvino加速 \
 https://blog.csdn.net/shanglianlm/category_8938622.html CUDA教程 \
 https://mp.weixin.qq.com/s/SeOx8DTPxGYZyyed7Nq8eA  CUDA面试题 \
 https://ytzfhqs.github.io/AAAMLP-CN/ Kaggle \
@@ -63,6 +67,7 @@ https://blog.csdn.net/CV_Autobot/article/details/140563464 UniAD \
 https://zhuanlan.zhihu.com/p/642373931 UniAD \
 https://mp.weixin.qq.com/s/crvIXwkeYTtOqKW4Pi77Ww  UniAd \
 https://github.com/ywyeli/UniDrive  Uni Drive \
+https://mp.weixin.qq.com/s/xBSk1A4o_9vVkIJohLpxgw 自动驾驶全流程 \
 
 https://mp.weixin.qq.com/s/y2r5DZ53GhX5i0q-nMKzhg \
 https://mp.weixin.qq.com/s/-5L5YlUixXeLdOUksXSLcw \

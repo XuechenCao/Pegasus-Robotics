@@ -32,7 +32,7 @@ https://mp.weixin.qq.com/s/_G417OTvHX_OBR2DVR9rZA C++ Protobuf \
 https://mp.weixin.qq.com/s/tP6CM7lPgG4pLTl3KydQjQ Python封装 \
 
 https://robot-ma.github.io/   具身智能抓取 \
-https://dextrah-rgb.github.io/  dextrah抓取
+https://dextrah-rgb.github.io/  dextrah抓取 \
 https://github.com/kyegomez/rt-2   RT2 \
 https://navila-bot.github.io/  VLA导航 \
 https://github.com/Jirl-upenn/VLMnav  端到端导航 \

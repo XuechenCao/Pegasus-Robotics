@@ -32,9 +32,11 @@ https://mp.weixin.qq.com/s/_G417OTvHX_OBR2DVR9rZA C++ Protobuf \
 https://mp.weixin.qq.com/s/tP6CM7lPgG4pLTl3KydQjQ Python封装 \
 
 https://robot-ma.github.io/   具身智能抓取 \
+https://dextrah-rgb.github.io/  dextrah抓取
 https://github.com/kyegomez/rt-2   RT2 \
-https://theophilegervet.github.io/projects/goat/  GoToAnything \
+https://navila-bot.github.io/  VLA导航 \
 https://github.com/Jirl-upenn/VLMnav  端到端导航 \
+https://github.com/bagh2178/SG-Nav  零样本导航 \
 https://mp.weixin.qq.com/s/ZS6kgn5YiloE2c77-EuiFQ CLIP2Scene \
 https://dino-wm.github.io/  Dino WM \
 Log-GPIS-MOP     定位建图导航 \
@@ -43,7 +45,7 @@ https://github.com/robodhruv/visualnav-transformer  diffusion导航 \
 https://nexa.ai/blogs/omni-vision?utm_source=ai-bot.cn  VLM \
 https://github.com/ethz-asl/panoptic_mapping  全景建图 \
 
-datawhalechina.github.io   pytorch \
+https://www.jetson-ai-lab.com/tensorrt_llm.html   tensorrt_llm \
 https://mp.weixin.qq.com/s/5lSZNuoY3DUCGsJIqmLy0A  模型部署工程化 \
 https://mp.weixin.qq.com/s/zfB-4YFWLltboC7EwYptmA  onnx加速 \
 https://mp.weixin.qq.com/s/5hjnbLvD1uOMcI-LyxDBvQ Openvino加速 \

@@ -2,6 +2,7 @@
 Integrate learning materials into a complete and easy-to-deploy robotics/autonomous driving project
 ![alt text](tools/whiteboard_exported_image.png)
 ![alt text](tools/framework.PNG)
+VLN https://github.com/yang-zj1026/VLN-CE-Isaac
 
 https://zhuanlan.zhihu.com/p/470874027  C++ sum \
 https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg  C++ STL原理 \
